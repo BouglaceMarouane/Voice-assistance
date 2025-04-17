@@ -30,7 +30,7 @@ This is a Python-based **Voice Assistant** application with a graphical user int
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Voice-assistance/blob/1d08c2bea5e09495334cd5e938e02d4ed5d73f4c/images/help.png" alt="image alt" />
   <br>
-  <em>When a trainee is added, their name and grades are processed, and the trainee list is updated dynamically with their ranking.</em>
+  <em>This is the main interface of the Voice Assistant application. It features a clean and user-friendly design with buttons for starting/stopping listening, accessing help, and exiting the application. The conversation area displays interactions between the user and the assistant.</em>
 </p><br>
 
 ### Help Menu
