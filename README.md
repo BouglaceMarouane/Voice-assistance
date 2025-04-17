@@ -21,21 +21,21 @@ This is a Python-based **Voice Assistant** application with a graphical user int
 
 ### Main Interface
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Application-Simple-Gestion-Stagiaires/blob/e712bd8bfa82c3cf1465d4164cab976a03ebc80d/hoem_page.png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Voice-assistance/blob/1d08c2bea5e09495334cd5e938e02d4ed5d73f4c/images/Screenshot%202025-04-17%20212121.png" alt="image alt" />
   <br>
   <em>This is the home page where users can add trainees by filling out the form with their name and grades.</em>
 </p><br>
 
 ### Help Menu
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Application-Simple-Gestion-Stagiaires/blob/e712bd8bfa82c3cf1465d4164cab976a03ebc80d/add_stg.png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Voice-assistance/blob/1d08c2bea5e09495334cd5e938e02d4ed5d73f4c/images/help.png" alt="image alt" />
   <br>
   <em>When a trainee is added, their name and grades are processed, and the trainee list is updated dynamically with their ranking.</em>
 </p><br>
 
 ### Help Menu
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Application-Simple-Gestion-Stagiaires/blob/e712bd8bfa82c3cf1465d4164cab976a03ebc80d/add_stg.png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Voice-assistance/blob/1d08c2bea5e09495334cd5e938e02d4ed5d73f4c/images/listening.png" alt="image alt" />
   <br>
   <em>When a trainee is added, their name and grades are processed, and the trainee list is updated dynamically with their ranking.</em>
 </p><br>
