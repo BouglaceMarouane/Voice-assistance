@@ -28,7 +28,7 @@ This is a Python-based **Voice Assistant** application with a graphical user int
 
 ### Help Menu
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Voice-assistance/blob/1d08c2bea5e09495334cd5e938e02d4ed5d73f4c/images/help.png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Voice-assistance/blob/1d08c2bea5e09495334cd5e938e02d4ed5d73f4c/images/help.png" alt="image alt"/>
   <br>
   <em>The help menu provides a list of supported voice commands. Users can access this menu by clicking the "Help" button. It guides users on how to interact with the assistant effectively.</em>
 </p><br>
