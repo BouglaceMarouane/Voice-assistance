@@ -35,7 +35,7 @@ This is a Python-based **Voice Assistant** application with a graphical user int
 
 ### Listening Mode
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Voice-assistance/blob/1d08c2bea5e09495334cd5e938e02d4ed5d73f4c/images/listening.png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Voice-assistance/blob/1d08c2bea5e09495334cd5e938e02d4ed5d73f4c/images/listening.png" alt="image alt"/>
   <br>
   <em>In listening mode, the assistant actively listens for voice commands. The "Start Listening" button changes to "Stop Listening," and the status updates to indicate that the assistant is ready to process commands.</em>
 </p><br>
