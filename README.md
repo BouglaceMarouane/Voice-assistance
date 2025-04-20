@@ -70,7 +70,7 @@ This is a Python-based **Voice Assistant** application with a graphical user int
    ```
 ---
 
-## **🎮 How to Use**
+## **🎮 How to Use :**
 
 1. Launch the application.
 2. Use the **Start Listening** button to activate voice recognition.
