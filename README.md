@@ -17,7 +17,7 @@ This is a Python-based **Voice Assistant** application with a graphical user int
 
 ---
 
-## **📷 Screenshots**
+## **📷 Screenshots :**
 
 ### Main Interface
 <p align="center">
