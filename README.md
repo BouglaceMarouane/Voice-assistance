@@ -42,7 +42,7 @@ This is a Python-based **Voice Assistant** application with a graphical user int
 
 ---
 
-## **🛠️ Technologies Used**
+## **🛠️ Technologies Used :**
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange) ![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-3.8.1-green) ![Pyttsx3](https://img.shields.io/badge/Pyttsx3-TTS-yellow)
 
