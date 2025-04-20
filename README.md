@@ -94,7 +94,7 @@ This is a Python-based **Voice Assistant** application with a graphical user int
 
 ---
 
-## **🤝 Contributing**
+## **🤝 Contributing :**
 
 Contributions are welcome! If you have suggestions, bug fixes, or new features, feel free to:
 1. Fork the repository.
