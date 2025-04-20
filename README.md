@@ -48,7 +48,7 @@ This is a Python-based **Voice Assistant** application with a graphical user int
 
 ---
 
-## **⚙️ Installation Steps**
+## **⚙️ Installation Steps :**
 
 1. **📥 Clone the repository** to your machine or download the ZIP files:
    ```
