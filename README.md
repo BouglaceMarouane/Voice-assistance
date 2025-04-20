@@ -103,7 +103,7 @@ Contributions are welcome! If you have suggestions, bug fixes, or new features, 
 
 ---
 
-## **📬 Contact**
+## **📬 Contact :**
 
 - **Email**: bouglacemarouane@gmail.com
 - **GitHub**: [Bouglace Marouane](https://github.com/BouglaceMarouane)
