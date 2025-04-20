@@ -83,7 +83,7 @@ This is a Python-based **Voice Assistant** application with a graphical user int
 
 ---
 
-## **📋 Supported Commands**
+## **📋 Supported Commands :**
 
 - **Greetings**: "Hello", "Hi"
 - **Time and Date**: "What time is it?", "What is today's date?"
