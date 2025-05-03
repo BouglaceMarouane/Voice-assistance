@@ -115,4 +115,6 @@ Contributions are welcome! If you have suggestions, bug fixes, or new features, 
 
 If you like this project, please give it a ⭐ on GitHub. Thank you for your support! 🚀
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
