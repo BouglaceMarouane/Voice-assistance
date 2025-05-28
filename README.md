@@ -11,7 +11,6 @@
 
 
 
-
 ## **✨ Project Description :**
 This is a Python-based **Voice Assistant** application with a graphical user interface (GUI) built using **Tkinter**. The assistant can respond to voice commands, perform basic tasks like telling the time, opening websites, and more. It also features text-to-speech (TTS) functionality for audio responses.
 
